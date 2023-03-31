@@ -1,3 +1,3 @@
-My first readme
-this is awesome!
+My first readme.
+This is some awesome shit!
 
